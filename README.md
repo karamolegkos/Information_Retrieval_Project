@@ -4,7 +4,6 @@ This repository is a project made by me for the subject named "Information Retri
 
 It consist the directories below:
 - data: Some data that I made for testing my Search Engine.
-- report: A report containing information on how to run the application and how to use it.
 - search-engine: The files needed to run the application.
 
 To Run the console application the user can eather run the main java file below:
