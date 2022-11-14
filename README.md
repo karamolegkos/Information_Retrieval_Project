@@ -14,3 +14,5 @@ Or run the jar file from the path below:
 ```
 search-engine\jar-file\e17065.jar
 ```
+
+*This project has a file as a report for a User and Technical Manual. You can get this by contacting me <a href="mailto:p.karamolegos@yahoo.gr"><b>here</b></a>.*
